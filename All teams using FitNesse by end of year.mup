@@ -1,0 +1,181 @@
+{
+  "title": "All teams using FitNesse by end of year",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "0.5": {
+      "title": "Best Practices",
+      "id": 3,
+      "ideas": {
+        "1": {
+          "title": "Define Unit Tests vs. Itegration tests",
+          "id": 9,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Writing Requirements/Tests in Wiki",
+          "id": 11
+        },
+        "3": {
+          "title": "How and when to use the various tables available in FitNesse",
+          "id": 12
+        },
+        "4": {
+          "title": "Code & Requirement Reviews",
+          "id": 13,
+          "ideas": {
+            "1": {
+              "title": "Who attends",
+              "id": 40
+            },
+            "2": {
+              "title": "How often",
+              "id": 41
+            }
+          }
+        },
+        "5": {
+          "title": "Test Data Management",
+          "id": 14,
+          "ideas": {
+            "1": {
+              "title": "Service Virtualization",
+              "id": 16
+            },
+            "2": {
+              "title": "Mocking",
+              "id": 17
+            },
+            "3": {
+              "title": "What goes in  test vs. what is in automation layer",
+              "id": 18
+            }
+          }
+        },
+        "6": {
+          "title": "How to use existing artifacts (use cases, business rules, tests) while moving to FitNesse",
+          "id": 15,
+          "ideas": {}
+        },
+        "7": {
+          "title": "Organizational Definition of User Story",
+          "id": 25,
+          "ideas": {
+            "1": {
+              "title": "Ready to bring into iteration",
+              "id": 26
+            },
+            "2": {
+              "title": "Done",
+              "id": 27
+            }
+          }
+        },
+        "8": {
+          "title": "Refactoring",
+          "id": 33
+        },
+        "9": {
+          "title": "Organizational structure of wiki",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "Creating test suites",
+              "id": 37
+            },
+            "2": {
+              "title": "cross references",
+              "id": 38
+            },
+            "3": {
+              "title": "Taxonomy",
+              "id": 39
+            }
+          }
+        }
+      }
+    },
+    "0.75": {
+      "title": "Community Based Training",
+      "id": 4,
+      "ideas": {
+        "2": {
+          "title": "Writing User Stories",
+          "id": 28
+        },
+        "3": {
+          "title": "Specification by Example",
+          "id": 29
+        },
+        "4": {
+          "title": "Writing Requirement/tests",
+          "id": 30
+        },
+        "5": {
+          "title": "Mainline Development",
+          "id": 31
+        },
+        "6": {
+          "title": "Test Data",
+          "id": 32,
+          "ideas": {}
+        },
+        "7": {
+          "title": "FitNesse Tool",
+          "id": 24,
+          "attr": {
+            "style": {}
+          }
+        }
+      }
+    },
+    "0.625": {
+      "title": "Infrastructure",
+      "id": 2,
+      "ideas": {
+        "1": {
+          "title": "Merging Wiki Pages",
+          "id": 5
+        },
+        "2": {
+          "title": "Running  tests at build",
+          "id": 6
+        },
+        "3": {
+          "title": "Environment  Versions",
+          "id": 7,
+          "ideas": {
+            "1": {
+              "title": "Team/Silo",
+              "id": 19
+            },
+            "2": {
+              "title": "Mainline",
+              "id": 20
+            },
+            "3": {
+              "title": "QA Stable/IQA",
+              "id": 21
+            },
+            "4": {
+              "title": "Staging",
+              "id": 22
+            },
+            "5": {
+              "title": "Production",
+              "id": 23
+            }
+          }
+        },
+        "4": {
+          "title": "Service Virtualization",
+          "id": 34
+        }
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {}
+  }
+}
